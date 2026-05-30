@@ -1,2 +1,2 @@
 # C-lang
-update
+update 2 uptxt
